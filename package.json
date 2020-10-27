@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "mysql2": "^1.7.0",
+    "node-fetch": "^2.6.0",
+    "pg": "^7.12.1",
+    "sequelize": "^5.19.0",
+    "sqlite3": "^4.1.0"
+  }
+}
